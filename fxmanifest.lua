@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Stephanie'
+author 'Winnie 🐻'
 description 'Winnie EUP Pack — MP Male & Female Freemode'
 version '1.0.0'
 
